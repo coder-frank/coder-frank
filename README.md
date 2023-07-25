@@ -1,4 +1,3 @@
-<meta name="google-site-verification" content="pPsN4eCm74rujIab0vIsoZHxv_IxIzIPtuh19GXxHJc" />
 <div id="header" align="center" style="width:100%">
   <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif"/>
 </div>
