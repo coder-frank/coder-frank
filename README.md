@@ -16,6 +16,7 @@
 <br>
   <img src="https://komarev.com/ghpvc/?username=coder-frank&style=flat-square&color=blue" alt=""/>
 
+# [![TypingSVG](https://readme-typing-svg.demolab.com?lines=Hey!+You+Are+Welcome+To+My+Profile;My+Name+Is+CODER-FRANK;I+Am+Passionate+About+Coding;I+Learn+By+Doing+Projects)](https://git.io/typing-svg)
 <h1>
   Hi
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
